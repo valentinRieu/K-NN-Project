@@ -9,6 +9,15 @@ __pycache__/
 # intellij
 .idea
 
+# LaTeX
+tex/*.out
+tex/*.pdf
+tex/*.blg
+tex/*.bbl
+tex/*.eps
+tex/*.aux
+
+
 # Distribution / packaging
 .Python
 build/
